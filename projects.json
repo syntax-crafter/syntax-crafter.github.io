@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "year": "2022",
+            "title": "StealthStream",
+            "desc": "A real-time data stream obfuscation framework that masks sensitive information in transit using adaptive algorithms."
+        },
+        {
+            "year": "2023",
+            "title": "Packet Mirage",
+            "desc": "A network packet obfuscation tool designed to simulate phantom data streams and mislead intrusion detection systems."
+        },
+        {
+            "year": "2024",
+            "title": "IP Illusionist",
+            "desc": "An IP spoofing and redirection visualizer that demonstrates advanced evasion techniques in ethical security labs."
+        },
+        {
+            "year": "2024",
+            "title": "Cipher Grid",
+            "desc": "A modular encryption sandbox that showcases how dynamic ciphers interact and overlap in chained systems."
+        },
+        {
+            "year": "2025",
+            "title": "Neural Obscura",
+            "desc": "An AI-assisted code obfuscator that learns from patterns to make decompilation a puzzle of infinite layers."
+        }
+    ]
+}
